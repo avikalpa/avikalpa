@@ -1,6 +1,6 @@
 # Avikalpa Kundu
 
-> Terminal-first systems builder. I work on agentic tooling, self-hosted infrastructure, and operator-focused software.
+> Building terminal-first tools, agentic workflows, and self-hosted systems.
 
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
@@ -12,11 +12,11 @@
 ![LiteLLM](https://img.shields.io/badge/-LiteLLM-7C3AED?style=flat-square)
 ![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white)
 
-I like software that makes dense systems legible:
+I build software that makes dense systems legible:
 
 - terminal workflows that survive machine moves and long sessions
 - self-hosted infrastructure that can be rebuilt and understood
-- tools that bridge good interfaces to real operator needs
+- agentic tools that stay useful under real operator pressure
 - software that is useful before it is fashionable
 
 ## Current Focus
@@ -47,9 +47,9 @@ I like software that makes dense systems legible:
 - [`dav-manager`](https://github.com/avikalpa/dav-manager): DAV and contacts tooling
 - [`thunderbird-cli`](https://github.com/avikalpa/thunderbird-cli): terminal workflow around mail search and operations
 
-## Adjacent Interests
+## Also Writing About
 
-Beyond code, I am interested in:
+Outside the code itself, I am interested in:
 
 - finance and management as systems problems
 - public-interest documentation and case synthesis
@@ -59,7 +59,4 @@ Beyond code, I am interested in:
 
 - X: [`@avikalpax`](https://x.com/avikalpax)
 
-## Notes
-
-This page is intentionally simple.
-I would rather show a few coherent systems than present a crowded wall of claims.
+This page is intentionally simple. I would rather show a few coherent systems than present a crowded wall of claims.
