@@ -21,31 +21,36 @@ I build software that makes dense systems legible:
 
 ## Current Focus
 
-- [`codex-litellm`](https://github.com/avikalpa/codex-litellm): maintained LiteLLM patchset for Codex CLI so the Codex agent loop can run against multiple providers
-- [`codex-session-tui`](https://github.com/avikalpa/codex-session-tui): terminal-first session explorer and repair tool for Codex conversations
-- [`yggterm`](https://github.com/yggdrasilhq/yggterm): Rust-first remote terminal workspace for long-lived operator and agent sessions
+- [`yggterm`](https://github.com/yggdrasilhq/yggterm): Rust-first remote terminal workspace for long-lived operator and agent sessions, now growing into **libyggterm**: the terminal as an application platform, where an app launched in a terminal takes over the GUI surfaces
+- [`ychrome`](https://github.com/yggdrasilhq/ychrome): the first libyggterm app; run it in a yggterm terminal and the viewport becomes a browser on that machine's network
+- [`cellulose`](https://github.com/yggdrasilhq/cellulose): open-source spreadsheet and financial modeling workspace; compatibility-first, automation-native
 - [`yggdrasil`](https://github.com/yggdrasilhq/yggdrasil): Debian live-build based ZFS + LXC host operating system
 
-## Selected Work
+## Avikalpa Labs
 
-### Agentic and terminal tooling
+The company side of the work (incorporating): **Practice**, a CFA/GMAT practice platform built for my own exam preparation, and **Jyas**, a research engine that computes classical Jyotish deterministically so its claims can be tested honestly. Both are closed products in development.
 
-- [`codex-litellm`](https://github.com/avikalpa/codex-litellm)
-- [`codex-session-tui`](https://github.com/avikalpa/codex-session-tui)
-
-### Yggdrasil ecosystem
+## Yggdrasil ecosystem
 
 - [`yggterm`](https://github.com/yggdrasilhq/yggterm): terminal workspace
+- [`ychrome`](https://github.com/yggdrasilhq/ychrome): web viewport, libyggterm pilot
+- [`paper`](https://github.com/yggdrasilhq/paper): local-first structured writing and planning workspace
+- [`cellulose`](https://github.com/yggdrasilhq/cellulose): spreadsheet and financial modeling workspace
 - [`yggdrasil`](https://github.com/yggdrasilhq/yggdrasil): host operating system
 - [`yggcli`](https://github.com/yggdrasilhq/yggcli): guided configuration front door
 - [`yggsync`](https://github.com/yggdrasilhq/yggsync): sync orchestrator
 - [`yggdocs`](https://github.com/yggdrasilhq/yggdocs): ecosystem docs
 
-### Small focused utilities
+## Agentic and terminal tooling
+
+- [`codex-litellm`](https://github.com/avikalpa/codex-litellm): maintained LiteLLM patchset for the Codex CLI. In maintenance mode; the economics moved my daily agent work elsewhere, but it stays alive for the Codex surface and can be revived when the utility returns
+- [`codex-session-tui`](https://github.com/avikalpa/codex-session-tui): terminal-first session explorer and repair tool for Codex conversations
+- [`thunderbird-cli`](https://github.com/avikalpa/thunderbird-cli): terminal workflow around mail search and operations
+
+## Small focused utilities
 
 - [`runtime-environment-flags`](https://github.com/avikalpa/runtime-environment-flags): tiny runtime flags for JavaScript environments
 - [`dav-manager`](https://github.com/avikalpa/dav-manager): DAV and contacts tooling
-- [`thunderbird-cli`](https://github.com/avikalpa/thunderbird-cli): terminal workflow around mail search and operations
 
 ## Also Writing About
 
